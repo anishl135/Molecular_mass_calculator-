@@ -16,13 +16,16 @@ The `MolarMassCalculatorApp` is a graphical user interface (GUI) application bui
 1. Clone this repository or download the `molar_mass_calculator.py` file.
 
 2. Make sure you have Python and tkinter module installed on your system.
-        To install tkinter write this in the powershell and enter "pip install tkinter" 
+        To install tkinter:
+           in the powershell
+     ```bash
+                  pip install tkinter
 
 4. Open your terminal or command prompt and navigate to the directory where `molar_mass_calculator.py` is located.
 
 5. Run the program by executing the following command:
    ```bash
-   python molar_mass_calculator.py
+   chem_python molar_mass_calculator.py
 A GUI window will open. Enter a chemical formula in the input field (e.g., H2O, C6H12O6).
 
 Click the "Calculate" button, and the molar mass of the chemical formula will be displayed below the input field.
