@@ -18,8 +18,8 @@ The `MolarMassCalculatorApp` is a graphical user interface (GUI) application bui
 2. Make sure you have Python and tkinter module installed on your system.
         To install tkinter:
            in the powershell
-     ```bash
-                  pip install tkinter
+   ```bash
+         pip install tkinter
 
 4. Open your terminal or command prompt and navigate to the directory where `molar_mass_calculator.py` is located.
 
